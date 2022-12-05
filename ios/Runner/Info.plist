@@ -24,6 +24,12 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Kart okuyucunun, kamera veri erişimi için gereklidir.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Kart okuyucunun, kamera veri erişimi için gereklidir.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Galerinize erişmek için gereklidir.</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
