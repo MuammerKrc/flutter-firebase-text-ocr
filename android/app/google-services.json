@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "8606676398",
+    "project_id": "zonezorluvantaworks",
+    "storage_bucket": "zonezorluvantaworks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8606676398:android:cff93395a364cf8f61443f",
+        "android_client_info": {
+          "package_name": "com.vantaworks.zone.krc.zone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8606676398-g9j72ljuatced3gfqbldtp9aqgds2278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDLuBrCVox8JTbS1lmugpusHzMZ_jjH4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8606676398-g9j72ljuatced3gfqbldtp9aqgds2278.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "8606676398-b0c2bkvccvndnutjt7vdg2esqk43dbbu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vantaworks.zone.krc.zone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
